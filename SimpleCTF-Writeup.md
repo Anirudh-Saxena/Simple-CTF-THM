@@ -71,7 +71,8 @@ Try to crack this its fun!!
 
 Lets find out yes there is another one..
 
-![Screenshot_2023-08-16_11_56_24](https://github.com/Anirudh-Saxena/Simple-CTF-THM/assets/73027020/df19ff28-fde3-45f8-a3fb-9638992451f0)
+![ssh](https://github.com/Anirudh-Saxena/Simple-CTF-THM/assets/73027020/2e88b639-e22c-4e21-81ae-7a7ae3d3ef40)
+
 
 Now lets seee the version and see if we can find any vuln in it..
 
